@@ -31,7 +31,8 @@ Download CLaude Desktop, that's it!
 
 ### Step 1: Configure Your Claude Desktop Settings
 
-Add the Sequential Thinking configuration to your Claude desktop by updating your configuration file:
+Add the Sequential Thinking configuration to your Claude desktop by updating your configuration file.
+To do so, go to file/settings/developer and open the "Edit Congig" to paste in this code.
 
 ```
 {
