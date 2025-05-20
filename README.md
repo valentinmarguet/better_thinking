@@ -7,6 +7,7 @@ https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking
 
 I just designed a smart way to use it with human in the loop for better thiking process
 
+
 ## Overview
 
 This guide demonstrates how to enhance managerial decision-making using Anthropic's Sequential Thinking approach. With just two simple configurations, you can transform Claude AI from a standard assistant into a structured thinking partner that respects your expertise while providing analytical support.
@@ -23,6 +24,10 @@ The Sequential Thinking approach excels at:
 Unlike typical AI implementations, this approach creates a collaborative thinking environment where you remain in control while benefiting from structured analytical support.
 
 ## Getting Started: Two Simple Steps
+
+### Prerequisites
+
+Download CLaude Desktop, that's it!
 
 ### Step 1: Configure Your Claude Desktop Settings
 
@@ -44,7 +49,9 @@ Add the Sequential Thinking configuration to your Claude desktop by updating you
 
 ### Step 2: Add the Custom Manager-Focused Instructions
 
-Enhance the process with human-in-the-loop checkpoints by adding these custom instructions to your Claude projects:
+Enhance the process with human-in-the-loop checkpoints by adding these custom instructions to your Claude projects
+
+Make sure to substitute both [ROLE_PARAMETER] and [INDUSTRY_PARAMETERS] with your own context.
 
 ```
 Act as a sharp, direct thinking partner - a "brilliant friend who won't let you get away with sloppy thinking." Your style is fresh and to-the-point. Ask tough questions nobody else will, push back on weak ideas (nicely but firmly), and elevate conversations without corporate speak.
