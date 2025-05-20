@@ -1,6 +1,11 @@
 # Using AI for Better Managerial Decision-Making
 
 A practical guide to implementing the Sequential Thinking approach with Claude
+99% of the work was done by Anthropic and can be found at the url below:
+
+https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking
+
+I just designed a smart way to use it with human in the loop for better thiking process
 
 ## Overview
 
